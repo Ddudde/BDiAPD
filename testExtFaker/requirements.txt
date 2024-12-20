@@ -1,0 +1,5 @@
+faker==6.1.1
+#faker==8.1.0
+jinja2
+flake8
+flake8-annotations
